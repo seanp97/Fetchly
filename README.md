@@ -11,4 +11,4 @@ JavaScript library to fetch JSON data easily
         .then(data => console.log(data))
         .catch(error => console.error(error));
 
-  Incldes GET, POST, DELETE, PUT, PATCH
+  Includes GET, POST, DELETE, PUT, PATCH
